@@ -650,7 +650,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #F95959;
+  color: #626262;
   position: absolute;
   left: 0;
   top: .05em;
